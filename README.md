@@ -1,2 +1,2 @@
 # javaProgrammingMasterclass
-Java Programming Masterclass Lectures
+This repository is created for uploading my experimental small projects and some lecture challenges
